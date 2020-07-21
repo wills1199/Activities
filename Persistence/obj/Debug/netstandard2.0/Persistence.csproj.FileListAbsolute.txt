@@ -1,0 +1,12 @@
+/Users/willdabeast/demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/willdabeast/demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/willdabeast/demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/willdabeast/demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/willdabeast/demo/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/willdabeast/demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/willdabeast/demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/willdabeast/demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/willdabeast/demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/willdabeast/demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/willdabeast/demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/willdabeast/demo/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.pdb

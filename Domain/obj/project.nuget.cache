@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JJeKWXEPV+zQnV2n8qvRmtYWk3hhet5YBwlARWJ1kgDYflPctmtCuABzLloIX1bom0rwctr2J74M/g8VxV+Xw==",
+  "success": true,
+  "projectFilePath": "/Users/willdabeast/demo/Reactivities/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/willdabeast/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/willdabeast/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
